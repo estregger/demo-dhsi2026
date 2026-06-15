@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date Created
+related_publication,Related,,,Related Publication
 description,,,true,
 creator,Creator,,,
 subject,,true
 location,,true,,,Location Depicted
 identifier,,,true,Identifier
-related_publication,Related,,,Related Publication
